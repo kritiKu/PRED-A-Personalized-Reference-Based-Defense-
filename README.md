@@ -175,17 +175,7 @@ Lower is fairer. PRED-v2 simultaneously reduces both while maintaining accuracy.
 
 ---
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@article{pred2024,
-  title={PRED: A Personalized Reference-Based Defense Against Fairness Attacks in Federated Learning},
-  author={...},
-  year={2024}
-}
-```
 
 ---
 
