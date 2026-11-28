@@ -179,6 +179,4 @@ Lower is fairer. PRED-v2 simultaneously reduces both while maintaining accuracy.
 
 ---
 
-## License
 
-MIT License. See [LICENSE](LICENSE) for details.
